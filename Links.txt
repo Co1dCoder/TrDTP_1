@@ -1,0 +1,51 @@
+1. Rotator for mesh
+https://unity3d.com/learn/tutorials/projects/roll-ball-tutorial/creating-collectable-objects?playlist=17141
+
+2. How to do mesh programmaly
+https://unity3d.com/learn/tutorials/s/procedural-cave-generation-tutorial
+
+
+3. Do interface
+https://unity3d.com/learn/tutorials/s/user-interface-ui
+
+	GOT IT!
+	1.1) Button
+	https://unity3d.com/learn/tutorials/topics/user-interface-ui/ui-button?playlist=17111
+
+	1.2) Click on
+	https://unity3d.com/learn/tutorials/topics/user-interface-ui/ui-button?playlist=17111
+
+	1.3) Image
+	https://unity3d.com/learn/tutorials/topics/user-interface-ui/ui-image?playlist=17111
+
+	1.4) Animation
+
+	GOT IT!
+	2) Text 
+	https://unity3d.com/learn/tutorials/projects/roll-ball-tutorial/displaying-score-and-text?playlist=17141
+
+	GOT IT!
+	3) Edit field (Input)
+	https://docs.unity3d.com/Manual/script-InputField.html
+
+
+4. Rotate by buttons on keyboard
+
+5. Write an algo and show additional edges
+https://www.reddit.com/r/Unity3D/comments/7h9wpv/how_to_real_time_drawrender_a_line_between_moving/
+
+
+GOT IT!
+6. Build an app
+https://unity3d.com/learn/tutorials/projects/roll-ball-tutorial/building-game?playlist=17141
+
+7. Camera control (instead of 4)
+https://unity3d.com/learn/tutorials/projects/tanks-tutorial/camera-control?playlist=20081
+
+8. Timing algo
+https://docs.unity3d.com/ScriptReference/Time.html
+
+9. General tutorials
+https://unity3d.com/learn/tutorials
+
+10. How to store facets?
